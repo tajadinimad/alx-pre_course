@@ -1,1 +1,3 @@
-My first readme updated
+<<<<<<< HEAD
+My first readme some changes
+>>>>>>> update_script
